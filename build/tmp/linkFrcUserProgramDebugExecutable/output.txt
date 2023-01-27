@@ -1,0 +1,4 @@
+See file:///Users/Joe/Robotics/Code/MadRockers-2022-2023/Marketing/build/tmp/linkFrcUserProgramDebugExecutable/output.txt for all output for linkFrcUserProgramDebugExecutable.
+linking frcUserProgram successful.
+
+Finished linkFrcUserProgramDebugExecutable, see full log file:///Users/Joe/Robotics/Code/MadRockers-2022-2023/Marketing/build/tmp/linkFrcUserProgramDebugExecutable/output.txt.
