@@ -15,9 +15,13 @@ c++
 -O2
 -nostdinc
 -I
-/Users/Joe/Robotics/Code/MadRockers-2022-2023/Marketing/src/main/include
+/Users/Joe/OneDrive/Robotics/code/FRC-2023/src/main/include
 -I
 /Users/Joe/.gradle/caches/transforms-3/bbfcede3438fab4fc1382b2b56bfe848/transformed/wpilibNewCommands-cpp-2023.2.1-headers
+-I
+/Users/Joe/.gradle/caches/transforms-3/960dae88d40edbeab32eb56873c4721d/transformed/REVLib-cpp-2023.1.2-headers
+-I
+/Users/Joe/.gradle/caches/transforms-3/f5476bb591db0c9a52c3cb39faa53bde/transformed/REVLib-driver-2023.1.2-headers
 -I
 /Users/Joe/.gradle/caches/transforms-3/4f01e4349f9e46ad80edb59333952819/transformed/wpilibc-cpp-2023.2.1-headers
 -I
